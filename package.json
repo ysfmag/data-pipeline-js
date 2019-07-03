@@ -1,0 +1,19 @@
+{
+  "name": "pipelines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/turf": "^5.1.6",
+    "csv-parser": "^2.3.0",
+    "csv2json": "^1.4.2",
+    "fast-csv": "^3.0.1",
+    "json2csv": "^4.5.1",
+    "lodash": "^4.17.11"
+  }
+}
