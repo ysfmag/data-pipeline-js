@@ -12,7 +12,7 @@
     "@turf/turf": "^5.1.6",
     "csv-parser": "^2.3.0",
     "csv2json": "^1.4.2",
-    "fast-csv": "^3.0.1",
+    "fast-csv": "^4.3.6",
     "json2csv": "^4.5.1",
     "lodash": "^4.17.11"
   }
